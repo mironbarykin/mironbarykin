@@ -1,5 +1,4 @@
 - 👋 Hello, my name is Miron Barykin
-- 👀 I’m interested in Squash ;)
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : barykinmiron@gmail.com for EN or mironbarykin@yandex.ru for RU.
+- 💞️ I’m looking to collaborate on interesting or educational projects
+- 📫 How to reach me : barykinmiron@gmail.com for EN or mironbarykin@yandex.ru for RU

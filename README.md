@@ -1,4 +1,4 @@
 - 👋 Hello, my name is Miron Barykin
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and JS
 - 💞️ I’m looking to collaborate on interesting or educational projects
-- 📫 How to reach me : barykinmiron@gmail.com for EN or mironbarykin@yandex.ru for RU
+- 📫 How to reach me : barykinmiron@gmail.com

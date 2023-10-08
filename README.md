@@ -1,4 +1,6 @@
-- 👋 Hello, my name is Miron Barykin
-- 🌱 I’m currently learning Python and JS
-- 💞️ I’m looking to collaborate on interesting or educational projects
-- 📫 How to reach me : barykinmiron@gmail.com
+- Hello, my name is Miron Barykin
+- I’m coding with Python since 2020
+- I’m using Django, Flask, Scikit-learn, TensorFlow, NLTK
+- I’m learning Flutter & Dart
+- I’m looking to collaborate on interesting or educational projects
+- How to reach me : barykinmiron@gmail.com

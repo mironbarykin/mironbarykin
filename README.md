@@ -1,6 +1,5 @@
-- Hello, my name is Miron Barykin
-- I’m coding with Python since 2020
-- I’m using Django, Flask, Scikit-learn, TensorFlow, NLTK
-- I’m learning Flutter & Dart
-- I’m looking to collaborate on interesting or educational projects
-- How to reach me : barykinmiron@gmail.com
+# Hi there! 👋
+
+My name is Miron Barykin and I am software developer based in Germany.
+
+You can reach me via email: `barykinmiron@gmail.com`
